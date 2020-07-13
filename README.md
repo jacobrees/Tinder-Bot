@@ -2,8 +2,6 @@
 
 > Tinder swipe bot built with selenium framework in Python
 
-This page is a basic clone of The Next Web, this project has been an exercise of using media queries in CSS. the main purpose of this project has been to build responsive design and to aquire further practice on using CSS Flex and CSS Grid. 
-
 ## Built With
 
 - Python3
