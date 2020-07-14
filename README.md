@@ -1,6 +1,6 @@
 # Tinder-Bot
 
-> Tinder swipe bot built with selenium framework in Python
+> Tinder swipe bot built with Selenium framework in Python
 
 ## Built With
 
